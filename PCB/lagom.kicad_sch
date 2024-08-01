@@ -10267,7 +10267,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 112.5728 61.087 90)
 			(effects
 				(font
@@ -10471,7 +10471,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 92.2528 122.047 90)
 			(effects
 				(font
@@ -10743,7 +10743,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 173.5328 81.407 90)
 			(effects
 				(font
@@ -10916,15 +10916,6 @@
 				(hide yes)
 			)
 		)
-		(property "MPN" "CST35605T"
-			(at 81.28 212.09 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "1"
 			(uuid "c85125b3-e8db-47f3-8f1d-115b2eeb3123")
 		)
@@ -10958,7 +10949,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 112.5728 101.727 90)
 			(effects
 				(font
@@ -11028,7 +11019,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 71.9328 101.727 90)
 			(effects
 				(font
@@ -11098,7 +11089,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 234.4928 101.727 90)
 			(effects
 				(font
@@ -11418,7 +11409,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 295.4528 61.087 90)
 			(effects
 				(font
@@ -11624,7 +11615,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 214.1728 122.047 90)
 			(effects
 				(font
@@ -11694,7 +11685,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 51.6128 101.727 90)
 			(effects
 				(font
@@ -11832,7 +11823,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 153.2128 122.047 90)
 			(effects
 				(font
@@ -11970,7 +11961,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 275.1328 61.087 90)
 			(effects
 				(font
@@ -12314,7 +12305,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 315.7728 81.407 90)
 			(effects
 				(font
@@ -12452,7 +12443,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 132.8928 122.047 90)
 			(effects
 				(font
@@ -12522,7 +12513,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 214.1728 61.087 90)
 			(effects
 				(font
@@ -12658,7 +12649,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 254.8128 122.047 90)
 			(effects
 				(font
@@ -12728,7 +12719,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 356.4128 61.087 90)
 			(effects
 				(font
@@ -13000,7 +12991,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 173.5328 122.047 90)
 			(effects
 				(font
@@ -13070,7 +13061,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 234.4928 81.407 90)
 			(effects
 				(font
@@ -13276,7 +13267,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 71.9328 61.087 90)
 			(effects
 				(font
@@ -13414,7 +13405,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 173.5328 61.087 90)
 			(effects
 				(font
@@ -13686,7 +13677,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 71.9328 142.367 90)
 			(effects
 				(font
@@ -13822,7 +13813,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 153.2128 81.407 90)
 			(effects
 				(font
@@ -14092,7 +14083,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 132.8928 81.407 90)
 			(effects
 				(font
@@ -14364,7 +14355,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 132.8928 142.367 90)
 			(effects
 				(font
@@ -14567,7 +14558,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 254.8128 101.727 90)
 			(effects
 				(font
@@ -14637,7 +14628,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 51.6128 142.367 90)
 			(effects
 				(font
@@ -14909,7 +14900,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 112.5728 122.047 90)
 			(effects
 				(font
@@ -14979,7 +14970,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 51.6128 122.047 90)
 			(effects
 				(font
@@ -15115,7 +15106,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 356.4128 101.727 90)
 			(effects
 				(font
@@ -15185,7 +15176,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 92.2528 142.367 90)
 			(effects
 				(font
@@ -15459,7 +15450,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 71.9328 81.407 90)
 			(effects
 				(font
@@ -15529,7 +15520,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 193.8528 61.087 90)
 			(effects
 				(font
@@ -15735,7 +15726,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 295.4528 122.047 90)
 			(effects
 				(font
@@ -15805,7 +15796,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 173.5328 101.727 90)
 			(effects
 				(font
@@ -16289,7 +16280,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 356.4128 81.407 90)
 			(effects
 				(font
@@ -16572,7 +16563,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 214.1728 101.727 90)
 			(effects
 				(font
@@ -16642,7 +16633,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 153.2128 101.727 90)
 			(effects
 				(font
@@ -16712,7 +16703,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 336.0928 61.087 90)
 			(effects
 				(font
@@ -16918,7 +16909,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 254.8128 81.407 90)
 			(effects
 				(font
@@ -16988,7 +16979,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 92.2528 61.087 90)
 			(effects
 				(font
@@ -17130,7 +17121,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 193.8528 122.047 90)
 			(effects
 				(font
@@ -17336,7 +17327,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 275.1328 122.047 90)
 			(effects
 				(font
@@ -17745,7 +17736,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 51.6128 81.407 90)
 			(effects
 				(font
@@ -17815,7 +17806,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 315.7728 142.367 90)
 			(effects
 				(font
@@ -17885,7 +17876,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 92.2528 101.727 90)
 			(effects
 				(font
@@ -17955,7 +17946,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 132.8928 61.087 90)
 			(effects
 				(font
@@ -18025,7 +18016,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 112.5728 81.407 90)
 			(effects
 				(font
@@ -18095,7 +18086,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 275.1328 81.407 90)
 			(effects
 				(font
@@ -18367,7 +18358,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 193.8528 101.727 90)
 			(effects
 				(font
@@ -18639,7 +18630,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 92.2528 81.407 90)
 			(effects
 				(font
@@ -18709,7 +18700,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 153.2128 61.087 90)
 			(effects
 				(font
@@ -18847,7 +18838,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 234.4928 61.087 90)
 			(effects
 				(font
@@ -19233,7 +19224,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 51.6128 61.087 90)
 			(effects
 				(font
@@ -19444,7 +19435,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 315.7728 122.047 90)
 			(effects
 				(font
@@ -19580,7 +19571,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 71.9328 122.047 90)
 			(effects
 				(font
@@ -19650,7 +19641,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 193.8528 81.407 90)
 			(effects
 				(font
@@ -19930,7 +19921,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 295.4528 101.727 90)
 			(effects
 				(font
@@ -20403,7 +20394,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 336.0928 101.727 90)
 			(effects
 				(font
@@ -20473,7 +20464,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 254.8128 142.367 90)
 			(effects
 				(font
@@ -20543,7 +20534,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 254.8128 61.087 90)
 			(effects
 				(font
@@ -20815,7 +20806,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 132.8928 101.727 90)
 			(effects
 				(font
@@ -21021,7 +21012,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 336.0928 81.407 90)
 			(effects
 				(font
@@ -21159,7 +21150,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 214.1728 142.367 90)
 			(effects
 				(font
@@ -21297,7 +21288,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 214.1728 81.407 90)
 			(effects
 				(font
@@ -21367,7 +21358,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 336.0928 142.367 90)
 			(effects
 				(font
@@ -21437,7 +21428,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 315.7728 61.087 90)
 			(effects
 				(font
@@ -21507,7 +21498,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 275.1328 101.727 90)
 			(effects
 				(font
@@ -21915,7 +21906,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 173.5328 142.367 90)
 			(effects
 				(font
@@ -22189,7 +22180,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 234.4928 122.047 90)
 			(effects
 				(font
@@ -22327,7 +22318,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 336.0928 122.047 90)
 			(effects
 				(font
@@ -22397,7 +22388,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 295.4528 142.367 90)
 			(effects
 				(font
@@ -22601,7 +22592,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 315.7728 101.727 90)
 			(effects
 				(font
@@ -22671,7 +22662,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 275.1328 142.367 90)
 			(effects
 				(font
@@ -23012,7 +23003,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "D_Small"
+		(property "Value" "1N4148"
 			(at 295.4528 81.407 90)
 			(effects
 				(font
