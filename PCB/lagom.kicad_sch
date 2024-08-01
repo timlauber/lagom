@@ -10275,7 +10275,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 114.3 62.23 90)
 			(effects
 				(font
@@ -10479,7 +10479,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 93.98 123.19 90)
 			(effects
 				(font
@@ -10751,7 +10751,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 175.26 82.55 90)
 			(effects
 				(font
@@ -10957,7 +10957,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 114.3 102.87 90)
 			(effects
 				(font
@@ -11027,7 +11027,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 73.66 102.87 90)
 			(effects
 				(font
@@ -11097,7 +11097,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 236.22 102.87 90)
 			(effects
 				(font
@@ -11417,7 +11417,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 297.18 62.23 90)
 			(effects
 				(font
@@ -11623,7 +11623,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 215.9 123.19 90)
 			(effects
 				(font
@@ -11693,7 +11693,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 53.34 102.87 90)
 			(effects
 				(font
@@ -11831,7 +11831,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 154.94 123.19 90)
 			(effects
 				(font
@@ -11969,7 +11969,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 276.86 62.23 90)
 			(effects
 				(font
@@ -12313,7 +12313,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 317.5 82.55 90)
 			(effects
 				(font
@@ -12451,7 +12451,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 134.62 123.19 90)
 			(effects
 				(font
@@ -12521,7 +12521,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 215.9 62.23 90)
 			(effects
 				(font
@@ -12657,7 +12657,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 256.54 123.19 90)
 			(effects
 				(font
@@ -12727,7 +12727,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 358.14 62.23 90)
 			(effects
 				(font
@@ -12999,7 +12999,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 175.26 123.19 90)
 			(effects
 				(font
@@ -13069,7 +13069,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 236.22 82.55 90)
 			(effects
 				(font
@@ -13275,7 +13275,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 73.66 62.23 90)
 			(effects
 				(font
@@ -13413,7 +13413,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 175.26 62.23 90)
 			(effects
 				(font
@@ -13685,7 +13685,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 73.66 143.51 90)
 			(effects
 				(font
@@ -13821,7 +13821,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 154.94 82.55 90)
 			(effects
 				(font
@@ -14091,7 +14091,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 134.62 82.55 90)
 			(effects
 				(font
@@ -14363,7 +14363,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 134.62 143.51 90)
 			(effects
 				(font
@@ -14566,7 +14566,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 256.54 102.87 90)
 			(effects
 				(font
@@ -14636,7 +14636,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 53.34 143.51 90)
 			(effects
 				(font
@@ -14908,7 +14908,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 114.3 123.19 90)
 			(effects
 				(font
@@ -14978,7 +14978,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 53.34 123.19 90)
 			(effects
 				(font
@@ -15114,7 +15114,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 358.14 102.87 90)
 			(effects
 				(font
@@ -15184,7 +15184,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 93.98 143.51 90)
 			(effects
 				(font
@@ -15458,7 +15458,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 73.66 82.55 90)
 			(effects
 				(font
@@ -15528,7 +15528,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 195.58 62.23 90)
 			(effects
 				(font
@@ -15734,7 +15734,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 297.18 123.19 90)
 			(effects
 				(font
@@ -15804,7 +15804,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 175.26 102.87 90)
 			(effects
 				(font
@@ -16288,7 +16288,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 358.14 82.55 90)
 			(effects
 				(font
@@ -16571,7 +16571,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 215.9 102.87 90)
 			(effects
 				(font
@@ -16641,7 +16641,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 154.94 102.87 90)
 			(effects
 				(font
@@ -16711,7 +16711,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 337.82 62.23 90)
 			(effects
 				(font
@@ -16917,7 +16917,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 256.54 82.55 90)
 			(effects
 				(font
@@ -16987,7 +16987,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 93.98 62.23 90)
 			(effects
 				(font
@@ -17129,7 +17129,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 195.58 123.19 90)
 			(effects
 				(font
@@ -17335,7 +17335,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 276.86 123.19 90)
 			(effects
 				(font
@@ -17744,7 +17744,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 53.34 82.55 90)
 			(effects
 				(font
@@ -17814,7 +17814,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 317.5 143.51 90)
 			(effects
 				(font
@@ -17884,7 +17884,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 93.98 102.87 90)
 			(effects
 				(font
@@ -17954,7 +17954,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 134.62 62.23 90)
 			(effects
 				(font
@@ -18024,7 +18024,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 114.3 82.55 90)
 			(effects
 				(font
@@ -18094,7 +18094,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 276.86 82.55 90)
 			(effects
 				(font
@@ -18366,7 +18366,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 195.58 102.87 90)
 			(effects
 				(font
@@ -18638,7 +18638,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 93.98 82.55 90)
 			(effects
 				(font
@@ -18708,7 +18708,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 154.94 62.23 90)
 			(effects
 				(font
@@ -18846,7 +18846,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 236.22 62.23 90)
 			(effects
 				(font
@@ -19232,7 +19232,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_PUSH_1P1T_6x3.5mm_H5.0_APEM_MJTP1250"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 53.34 62.23 90)
 			(effects
 				(font
@@ -19443,7 +19443,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 317.5 123.19 90)
 			(effects
 				(font
@@ -19579,7 +19579,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 73.66 123.19 90)
 			(effects
 				(font
@@ -19649,7 +19649,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 195.58 82.55 90)
 			(effects
 				(font
@@ -19929,7 +19929,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 297.18 102.87 90)
 			(effects
 				(font
@@ -20402,7 +20402,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 337.82 102.87 90)
 			(effects
 				(font
@@ -20472,7 +20472,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 256.54 143.51 90)
 			(effects
 				(font
@@ -20542,7 +20542,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 256.54 62.23 90)
 			(effects
 				(font
@@ -20814,7 +20814,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 134.62 102.87 90)
 			(effects
 				(font
@@ -21020,7 +21020,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 337.82 82.55 90)
 			(effects
 				(font
@@ -21158,7 +21158,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 215.9 143.51 90)
 			(effects
 				(font
@@ -21296,7 +21296,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 215.9 82.55 90)
 			(effects
 				(font
@@ -21366,7 +21366,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 337.82 143.51 90)
 			(effects
 				(font
@@ -21436,7 +21436,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 317.5 62.23 90)
 			(effects
 				(font
@@ -21506,7 +21506,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 276.86 102.87 90)
 			(effects
 				(font
@@ -21914,7 +21914,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 175.26 143.51 90)
 			(effects
 				(font
@@ -22188,7 +22188,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 236.22 123.19 90)
 			(effects
 				(font
@@ -22326,7 +22326,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 337.82 123.19 90)
 			(effects
 				(font
@@ -22396,7 +22396,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 297.18 143.51 90)
 			(effects
 				(font
@@ -22600,7 +22600,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 317.5 102.87 90)
 			(effects
 				(font
@@ -22670,7 +22670,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 276.86 143.51 90)
 			(effects
 				(font
@@ -23011,7 +23011,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Diode_THT:D_DO-34_SOD68_P7.62mm_Horizontal"
+		(property "Footprint" "Diode_SMD:D_MiniMELF"
 			(at 297.18 82.55 90)
 			(effects
 				(font
