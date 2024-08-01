@@ -10139,7 +10139,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.00u_PCB"
 			(at 223.52 99.06 0)
 			(effects
 				(font
@@ -10207,7 +10207,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.00u_PCB"
 			(at 264.16 99.06 0)
 			(effects
 				(font
@@ -10345,7 +10345,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.75u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.75u_PCB"
 			(at 304.8 119.38 0)
 			(effects
 				(font
@@ -10549,7 +10549,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.00u_PCB"
 			(at 60.96 58.42 0)
 			(effects
 				(font
@@ -10617,7 +10617,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.00u_PCB"
 			(at 264.16 58.42 0)
 			(effects
 				(font
@@ -10821,7 +10821,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.50u_Plate"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.50u_PCB"
 			(at 60.96 78.74 0)
 			(effects
 				(font
@@ -11167,7 +11167,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.00u_PCB"
 			(at 243.84 99.06 0)
 			(effects
 				(font
@@ -11487,7 +11487,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.25u_PCB"
 			(at 60.96 119.38 0)
 			(effects
 				(font
@@ -11555,7 +11555,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.00u_PCB"
 			(at 264.16 78.74 0)
 			(effects
 				(font
@@ -11763,7 +11763,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.00u_PCB"
 			(at 223.52 78.74 0)
 			(effects
 				(font
@@ -11901,7 +11901,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.00u_PCB"
 			(at 81.28 58.42 0)
 			(effects
 				(font
@@ -12039,7 +12039,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.00u_PCB"
 			(at 121.92 99.06 0)
 			(effects
 				(font
@@ -12107,7 +12107,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.00u_PCB"
 			(at 243.84 119.38 0)
 			(effects
 				(font
@@ -12245,7 +12245,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.00u_PCB"
 			(at 345.44 99.06 0)
 			(effects
 				(font
@@ -12383,7 +12383,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.00u_PCB"
 			(at 101.6 78.74 0)
 			(effects
 				(font
@@ -12797,7 +12797,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.00u_PCB"
 			(at 203.2 99.06 0)
 			(effects
 				(font
@@ -12931,7 +12931,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.00u_PCB"
 			(at 182.88 78.74 0)
 			(effects
 				(font
@@ -13139,7 +13139,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.00u_PCB"
 			(at 101.6 119.38 0)
 			(effects
 				(font
@@ -13207,7 +13207,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.00u_PCB"
 			(at 243.84 58.42 0)
 			(effects
 				(font
@@ -13345,7 +13345,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.00u_PCB"
 			(at 345.44 119.38 0)
 			(effects
 				(font
@@ -13549,7 +13549,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.00u_PCB"
 			(at 345.44 139.7 0)
 			(effects
 				(font
@@ -13617,7 +13617,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.00u_PCB"
 			(at 203.2 119.38 0)
 			(effects
 				(font
@@ -13891,7 +13891,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.00u_PCB"
 			(at 142.24 99.06 0)
 			(effects
 				(font
@@ -14161,7 +14161,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.25u_PCB"
 			(at 101.6 139.7 0)
 			(effects
 				(font
@@ -14229,7 +14229,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.00u_PCB"
 			(at 142.24 119.38 0)
 			(effects
 				(font
@@ -14772,7 +14772,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_2.75u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_2.75u_PCB"
 			(at 223.52 139.7 0)
 			(effects
 				(font
@@ -14840,7 +14840,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.00u_PCB"
 			(at 345.44 78.74 0)
 			(effects
 				(font
@@ -15254,7 +15254,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.25u_PCB"
 			(at 182.88 134.62 0)
 			(effects
 				(font
@@ -15322,7 +15322,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.00u_PCB"
 			(at 325.12 119.38 0)
 			(effects
 				(font
@@ -15390,7 +15390,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.00u_PCB"
 			(at 121.92 58.42 0)
 			(effects
 				(font
@@ -15598,7 +15598,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.00u_PCB"
 			(at 304.8 78.74 0)
 			(effects
 				(font
@@ -15666,7 +15666,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.00u_PCB"
 			(at 304.8 99.06 0)
 			(effects
 				(font
@@ -15941,7 +15941,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.00u_PCB"
 			(at 223.52 58.42 0)
 			(effects
 				(font
@@ -16009,7 +16009,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.00u_PCB"
 			(at 101.6 99.06 0)
 			(effects
 				(font
@@ -16220,7 +16220,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.00u_PCB"
 			(at 142.24 58.42 0)
 			(effects
 				(font
@@ -16435,7 +16435,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.00u_PCB"
 			(at 162.56 58.42 0)
 			(effects
 				(font
@@ -16503,7 +16503,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.25u_PCB"
 			(at 81.28 139.7 0)
 			(effects
 				(font
@@ -16781,7 +16781,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.00u_PCB"
 			(at 81.28 99.06 0)
 			(effects
 				(font
@@ -16849,7 +16849,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.00u_PCB"
 			(at 304.8 139.7 0)
 			(effects
 				(font
@@ -17199,7 +17199,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.00u_PCB"
 			(at 162.56 78.74 0)
 			(effects
 				(font
@@ -17267,7 +17267,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.00u_PCB"
 			(at 365.76 99.06 0)
 			(effects
 				(font
@@ -17472,7 +17472,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.00u_PCB"
 			(at 365.76 58.42 0)
 			(effects
 				(font
@@ -17540,7 +17540,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.00u_PCB"
 			(at 101.6 58.42 0)
 			(effects
 				(font
@@ -17608,7 +17608,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.00u_PCB"
 			(at 81.28 78.74 0)
 			(effects
 				(font
@@ -17676,7 +17676,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.00u_PCB"
 			(at 284.48 58.42 0)
 			(effects
 				(font
@@ -18298,7 +18298,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.00u_PCB"
 			(at 243.84 78.74 0)
 			(effects
 				(font
@@ -18436,7 +18436,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_6.25u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_6.25u_PCB"
 			(at 182.88 139.7 0)
 			(effects
 				(font
@@ -18570,7 +18570,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.00u_PCB"
 			(at 162.56 119.38 0)
 			(effects
 				(font
@@ -18778,7 +18778,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_2.00u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_2.00u_PCB"
 			(at 345.44 58.42 0)
 			(effects
 				(font
@@ -18916,7 +18916,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.00u_PCB"
 			(at 284.48 119.38 0)
 			(effects
 				(font
@@ -18984,7 +18984,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.00u_PCB"
 			(at 182.88 58.42 0)
 			(effects
 				(font
@@ -19052,7 +19052,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.00u_PCB"
 			(at 121.92 78.74 0)
 			(effects
 				(font
@@ -19375,7 +19375,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.00u_PCB"
 			(at 223.52 119.38 0)
 			(effects
 				(font
@@ -19861,7 +19861,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.00u_PCB"
 			(at 81.28 119.38 0)
 			(effects
 				(font
@@ -20069,7 +20069,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.25u_PCB"
 			(at 60.96 139.7 0)
 			(effects
 				(font
@@ -20612,7 +20612,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.00u_PCB"
 			(at 284.48 99.06 0)
 			(effects
 				(font
@@ -20746,7 +20746,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.00u_PCB"
 			(at 162.56 99.06 0)
 			(effects
 				(font
@@ -20884,7 +20884,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.00u_PCB"
 			(at 203.2 78.74 0)
 			(effects
 				(font
@@ -20952,7 +20952,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.75u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.75u_PCB"
 			(at 60.96 99.06 0)
 			(effects
 				(font
@@ -21090,7 +21090,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.25u_PCB"
 			(at 264.16 139.7 0)
 			(effects
 				(font
@@ -21228,7 +21228,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.00u_PCB"
 			(at 264.16 119.38 0)
 			(effects
 				(font
@@ -21576,7 +21576,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_ISOEnter_PCB_Flipped_Rotated"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_ISOEnter_PCB"
 			(at 325.12 99.06 0)
 			(effects
 				(font
@@ -21710,7 +21710,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.00u_PCB"
 			(at 121.92 119.38 0)
 			(effects
 				(font
@@ -21778,7 +21778,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.00u_PCB"
 			(at 182.88 119.38 0)
 			(effects
 				(font
@@ -21846,7 +21846,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.00u_PCB"
 			(at 365.76 78.74 0)
 			(effects
 				(font
@@ -21984,7 +21984,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.00u_PCB"
 			(at 284.48 78.74 0)
 			(effects
 				(font
@@ -22052,7 +22052,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.00u_PCB"
 			(at 325.12 139.7 0)
 			(effects
 				(font
@@ -22120,7 +22120,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.00u_PCB"
 			(at 142.24 78.74 0)
 			(effects
 				(font
@@ -22258,7 +22258,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.00u_PCB"
 			(at 203.2 58.42 0)
 			(effects
 				(font
@@ -22466,7 +22466,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.25u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.25u_PCB"
 			(at 284.48 139.7 0)
 			(effects
 				(font
@@ -22740,7 +22740,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.00u_PCB"
 			(at 182.88 99.06 0)
 			(effects
 				(font
@@ -22808,7 +22808,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_2.25u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_2.25u_PCB"
 			(at 142.24 139.7 0)
 			(effects
 				(font
@@ -22943,7 +22943,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "kailh_hotswap:SW_Kailh_HotSwap_1.00u_PCB"
 			(at 304.8 58.42 0)
 			(effects
 				(font
