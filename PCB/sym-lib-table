@@ -1,5 +1,4 @@
 (sym_lib_table
   (version 7)
-  (lib (name "keebio")(type "Legacy")(uri "${KIPRJMOD}/keebio-components/keebio.lib")(options "")(descr ""))
   (lib (name "lagom")(type "KiCad")(uri "${KIPRJMOD}/lagom.kicad_sym")(options "")(descr ""))
 )

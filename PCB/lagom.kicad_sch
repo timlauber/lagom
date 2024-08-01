@@ -1899,7 +1899,7 @@
 				)
 			)
 		)
-		(symbol "keebio:ProMicro"
+		(symbol "lagom:ProMicro"
 			(pin_names
 				(offset 1.016)
 			)
@@ -1949,20 +1949,18 @@
 					(hide yes)
 				)
 			)
-			(symbol "ProMicro_0_1"
+			(symbol "ProMicro_1_1"
 				(rectangle
-					(start -12.7 -16.51)
-					(end 12.7 16.51)
+					(start -12.7 16.51)
+					(end 12.7 -16.51)
 					(stroke
 						(width 0)
-						(type default)
+						(type solid)
 					)
 					(fill
-						(type none)
+						(type background)
 					)
 				)
-			)
-			(symbol "ProMicro_1_1"
 				(pin input line
 					(at -17.78 13.97 0)
 					(length 5.08)
@@ -18139,7 +18137,7 @@
 		)
 	)
 	(symbol
-		(lib_id "keebio:ProMicro")
+		(lib_id "lagom:ProMicro")
 		(at 68.58 181.61 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -18149,7 +18147,7 @@
 		(fields_autoplaced yes)
 		(uuid "a0b82ef0-b4bf-4eb6-bc71-ecaffd281bfa")
 		(property "Reference" "U1"
-			(at 68.58 158.877 0)
+			(at 68.58 160.02 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -18157,7 +18155,7 @@
 			)
 		)
 		(property "Value" "ProMicro"
-			(at 68.58 162.687 0)
+			(at 68.58 162.56 0)
 			(effects
 				(font
 					(size 1.524 1.524)
