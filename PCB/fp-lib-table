@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "Keebio-Parts")(type "KiCad")(uri "${KIPRJMOD}/Keebio-Parts.pretty")(options "")(descr ""))
   (lib (name "kailh_hotswap")(type "KiCad")(uri "${KIPRJMOD}/kailh_hotswap.pretty")(options "")(descr ""))
+  (lib (name "lagom")(type "KiCad")(uri "${KIPRJMOD}/lagom.pretty")(options "")(descr ""))
 )
