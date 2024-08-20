@@ -190,76 +190,6 @@
 			(uuid "9a858e80-334b-4f84-96fb-03a807bae051")
 		)
 	)
-	(footprint ""
-		(layer "F.Cu")
-		(uuid "27ef5495-80b6-47f4-bc50-a284e64c49d2")
-		(at 52.525 186.225)
-		(property "Reference" ""
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(uuid "fc20b8df-017e-4dd2-adf9-390449366863")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" ""
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(uuid "84985f5a-b5fa-4172-88e9-ed7abdb1d75f")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "034da6f5-ac20-4658-af27-f87b35275630")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "3251814e-be39-4fa3-b42c-c3dfc1b71ee0")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "f417ef40-ab3f-42f5-a3d0-cb065cb5e9a9")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(pad "" np_thru_hole circle
-			(at 0 0)
-			(size 2.2 2.2)
-			(drill 2.2)
-			(layers "*.Cu" "*.Mask")
-			(uuid "a323243c-4cab-4689-aa04-1e663cf86177")
-		)
-	)
 	(footprint "MountingHole:MountingHole_3.2mm_M3"
 		(layer "F.Cu")
 		(uuid "27f2dddc-ab4c-4ae5-b29c-733dd60220f2")
@@ -918,76 +848,6 @@
 			(drill 3.2)
 			(layers "*.Cu" "*.Mask")
 			(uuid "8f4907a9-95e4-4fa3-becf-b2277e902583")
-		)
-	)
-	(footprint ""
-		(layer "F.Cu")
-		(uuid "c30dc19b-bae9-425d-b9c2-1d3610d2e0ba")
-		(at 52.525 93.1125)
-		(property "Reference" ""
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(uuid "291964da-3171-41e7-b261-54009028a4ac")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" ""
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(uuid "87996b80-a44e-49e8-8f47-46a887112270")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "b912328e-8fd9-4971-ac48-fc2cbc3a6433")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "e0013c27-3498-42a1-b6b9-a0db14214cf8")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "fcef2c5d-fffe-4fab-923a-c4745b1056b9")
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.15)
-				)
-			)
-		)
-		(pad "" np_thru_hole circle
-			(at 0 0)
-			(size 2.2 2.2)
-			(drill 2.2)
-			(layers "*.Cu" "*.Mask")
-			(uuid "a49e8613-3cd2-48ed-8977-6bb5023f7722")
 		)
 	)
 	(footprint "MountingHole:MountingHole_3.2mm_M3"
@@ -23281,7 +23141,7 @@
 		(layer "Edge.Cuts")
 		(uuid "d2e1b291-04d7-437d-a960-17edbdbaba43")
 	)
-	(gr_text "STHLM KB lagom v1\ndesign by mohoyt"
+	(gr_text "STHLM KB lagom v1\ndesign by mohoyt\nmodified by Tim Lauber"
 		(at 207.7125 152.8 0)
 		(layer "F.SilkS")
 		(uuid "e4d2f565-25a0-48c6-be59-f4bf31ad2558")

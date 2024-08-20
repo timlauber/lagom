@@ -11264,4 +11264,16 @@
 			(justify mirror)
 		)
 	)
+	(gr_text "modified by Tim Lauber"
+		(at 198.7 127.1 0)
+		(layer "B.SilkS")
+		(uuid "12e98bdf-da75-41b7-8fd2-c96698a562e9")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+			(justify left bottom mirror)
+		)
+	)
 )
